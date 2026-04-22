@@ -1,1 +1,2 @@
-# 1stDynamicWebpage
+Dont waste your time reading "Read me" file !!!!!!
+this too shall pass.....
